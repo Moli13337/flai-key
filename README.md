@@ -1,2 +1,38 @@
 # flai-key
-没事逆向了一下flai，这个仓库用来发点有价值的key。音频生成反代不开源，自己研究。
+
+没事逆向了一下flai，版本2.6.0最新，这个仓库用来发点有价值的key。TTS反代及协议不开源，自己抓包研究。
+
+```
+私钥
+-----BEGIN PRIVATE KEY-----
+MIICeQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBAOXnEA2r5NIpSqlk
+HYpRFA0S1wEY5xdSBN90la+AukB42drUo22QTUOOmJtX2tGAoiCOAmEub5wT3Mo8
+6Z8aF5m5bwTLmxaCPMs8OK9KNUAdG+Y6fz2D6ntbo/KmkI/jvFXssPDtRzWpWPzU
+34k2GQnEsCkCOJFLDN5fKwhpOsLrAgMBAAECgYEAtw99oOU2loF6idbGDtTwelh+
+CsmheNg+OQ/EALMnmx6fmbenSh6U5y4sJcWW3yrl7bYl/uvSwxytufs2qxFDqAlN
+H//eJzrJqUFOFvpIjvqUvFt1jtcQDAvkVRaOZa2UNQ0oJ40vv/uxvXDErJD7A3sr
+socSWH41YIpo8hDX9QECQQD+e5Wi03OuYXbyE8xYE6Yl68/5mDQqGdgUdQRMTuMg
+SSGfLLwBo+HHgrCBeT7C0k4RPyRPU0d9Zj0UZ1t+SOpbAkEA50X2Le4Z7wy4RfKw
+l3nR1gvUPcDg3aWb9YLVatckISjcJnD+EWVVUT9QbyzZHr428QWnPbkjk0OAXaxr
+hotOsQJBANxzqNQOA4eLzSO2PO4Lz4HIPzlEPeQ+0S4flKKaMC12zNZ8RT3SfzN7
+JnZy1wikcJaGMWk6hpK+L6luRBcpCUMCQQCJxYqmx92ZI2mu+akrQ322Viukcf9C
+6sIimkMKt4klW9Lx74Pa1xPhJ6eB4ySghM3z/NspEN5Zfu+8XddcOiaxAkEA48MX
+2Q9v+Vpgz1f3yUyTVQPkQNyVDU95iTa1JWdcfhj8yvyNMiVmQiK2EM0/e0RgxDm/
+3jsPZTOCOyEjZY2Svw==
+-----END PRIVATE KEY-----
+```
+
+```
+公钥
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKnQIJHWpQDPTUCdGvnv+DQk35Lrdvb/+0dz2wkzf4ZiDGBRCd11+uRO
+r/VM8l3WMjqmodqkz/w8noAUO/yJeWzJSSFPAaCh3stTLxRTKgdlI+ungY+7sMpY
+xbs77dM4MAtzSIKZp6Gfxp1Wq3OFB3ww8DzRzkqTijb6j56RTQedAgMBAAE=
+-----END RSA PUBLIC KEY-----
+```
+
+```
+APP_VERSION: 2.6.0+187
+CHANNEL: official
+UA: Dart/3.12 (dart:io)
+```
