@@ -41,3 +41,5 @@ APP_VERSION: 2.6.0+187
 CHANNEL: official
 UA: Dart/3.12 (dart:io)
 ```
+
+隐私信息（包括账号uToken、邮箱等）全部明文存储与 `/data/data/com.flai.flai/app_flutter/`
