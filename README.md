@@ -1,12 +1,10 @@
 # flai-key
 
-没事逆向了一下flai，版本2.6.0，截止2026年10月18日最新。
+没事逆向了一下flai，版本2.6.0，截止2026年10月18日最新。这个仓库用来发点有价值的key。
 
-这个仓库用来发点有价值的key。
+TTS反代及协议不开源，自己抓包研究。我只能说目前flai有口子可以无限白嫖TTS。
 
-TTS反代及协议不开源，自己抓包研究。
-
-我只能说目前flai有口子可以无限白嫖TTS。
+最后，你司的360加固与神秘混淆并没有任何屌用，对我造不成任何阻碍，趁早死了你司的圈钱心。
 
 ```
 私钥
@@ -38,6 +36,7 @@ xbs77dM4MAtzSIKZp6Gfxp1Wq3OFB3ww8DzRzkqTijb6j56RTQedAgMBAAE=
 ```
 
 ```
+其他
 APP_VERSION: 2.6.0+187
 CHANNEL: official
 UA: Dart/3.12 (dart:io)
