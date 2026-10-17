@@ -37,6 +37,8 @@ xbs77dM4MAtzSIKZp6Gfxp1Wq3OFB3ww8DzRzkqTijb6j56RTQedAgMBAAE=
 
 ```
 其他
+DEV_KEY: Hcszr5hJJ7PsNwgc7wHctP
+APP_ID: 6471819385
 APP_VERSION: 2.6.0+187
 CHANNEL: official
 UA: Dart/3.12 (dart:io)
